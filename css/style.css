@@ -269,8 +269,7 @@ button {
     width: 100%;
     height: 100%;
     float: left;
-    background-image: url("https://imechewebresources.blob.core.windows.net/imeche-web-content/journals/coffee-car-home.jpg?sfvrsn=50f5cd12_0" );
-    height: auto;
+    background-image: url(../images/abc.png);
     background-size: 100%;
     padding: 10px 0px 25px 0px;
     background-repeat: no-repeat;
